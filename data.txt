@@ -1,12 +1,3 @@
 Line 1
-asdasd
-<<<<<<< HEAD
-asdasd
-asdasdasd
-sadasdasdasd
-asd
-=======
+Line 2
 Line 3
-Line 4
-Line 5
->>>>>>> parent of 1ef27ee... Seventh change for grey atom git tutorial
